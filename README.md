@@ -2,11 +2,11 @@
 
 [<img width=100% src="pictures/head.png?raw=yes">](https://github.com/hil-se/hil-se/blob/main/README.md) 
 &nbsp;&nbsp;&nbsp;[HOME](https://github.com/hil-se/hil-se#top) &nbsp;&nbsp;&nbsp;|
-&nbsp;&nbsp;&nbsp;[NEWS](https://github.com/hil-se/hil-se/blob/main/subs/news.md#top) &nbsp;&nbsp;&nbsp;|
-&nbsp;&nbsp;&nbsp;[PEOPLE](https://github.com/hil-se/hil-se/blob/main/people/people.md#top) &nbsp;&nbsp;&nbsp;|
-&nbsp;&nbsp;&nbsp;[PROJECTS](https://github.com/hil-se/hil-se/blob/main/subs/projects.md#top) &nbsp;&nbsp;&nbsp;|
-&nbsp;&nbsp;&nbsp;[PAPERS](https://github.com/hil-se/hil-se/blob/main/subs/papers.md#top) &nbsp;&nbsp;&nbsp;|
-&nbsp;&nbsp;&nbsp;[RESOURCES](https://github.com/hil-se/hil-se/blob/main/subs/resources.md#top) &nbsp;&nbsp;&nbsp;|
+&nbsp;&nbsp;&nbsp;[AIM](https://github.com/hil-se/hil-se/blob/main/subs/news.md#top) &nbsp;&nbsp;&nbsp;|
+&nbsp;&nbsp;&nbsp;[METHODS](https://github.com/hil-se/hil-se/blob/main/people/people.md#top) &nbsp;&nbsp;&nbsp;|
+&nbsp;&nbsp;&nbsp;[CITATION](https://github.com/hil-se/hil-se/blob/main/subs/projects.md#top) &nbsp;&nbsp;&nbsp;|
+<!-- &nbsp;&nbsp;&nbsp;[PAPERS](https://github.com/hil-se/hil-se/blob/main/subs/papers.md#top) &nbsp;&nbsp;&nbsp;| -->
+&nbsp;&nbsp;&nbsp;[DEMO](https://github.com/hil-se/hil-se/blob/main/subs/resources.md#top) &nbsp;&nbsp;&nbsp;|
 &nbsp;&nbsp;&nbsp;[CONTACT-US](https://github.com/hil-se/hil-se/blob/main/subs/contact.md#top) &nbsp;&nbsp;&nbsp;
 
 <!-- [<img src="https://github.com/hil-se/hil-se/blob/main/img/collaborate.png?raw=yes">](https://www.vodafone-institut.de/aiandi/five-things-that-demonstrate-that-ai-and-human-collaboration-is-the-future/)  -->
