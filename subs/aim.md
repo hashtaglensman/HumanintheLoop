@@ -2,7 +2,7 @@
 
 [<img width=100% src="pictures/head.png?raw=yes">](https://github.com/hil-se/hil-se/blob/main/README.md) 
 &nbsp;&nbsp;&nbsp;[HOME](https://github.com/hil-se/hil-se#top) &nbsp;&nbsp;&nbsp;|
-&nbsp;&nbsp;&nbsp;[NEWS](https://github.com/hil-se/hil-se/blob/main/subs/news.md#top) &nbsp;&nbsp;&nbsp;|
+&nbsp;&nbsp;&nbsp;[AIM](subs/aim.md#top) &nbsp;&nbsp;&nbsp;|
 &nbsp;&nbsp;&nbsp;[PEOPLE](https://github.com/hil-se/hil-se/blob/main/people/people.md#top) &nbsp;&nbsp;&nbsp;|
 &nbsp;&nbsp;&nbsp;[PROJECTS](https://github.com/hil-se/hil-se/blob/main/subs/projects.md#top) &nbsp;&nbsp;&nbsp;|
 &nbsp;&nbsp;&nbsp;[PAPERS](https://github.com/hil-se/hil-se/blob/main/subs/papers.md#top) &nbsp;&nbsp;&nbsp;|
