@@ -2,7 +2,7 @@
 
 [<img width=100% src="pictures/head.png?raw=yes">](main/README.md) 
 &nbsp;&nbsp;&nbsp;[HOME](#top) &nbsp;&nbsp;&nbsp;|
-&nbsp;&nbsp;&nbsp;[AIM](subs/aim.md#top) &nbsp;&nbsp;&nbsp;|
+&nbsp;&nbsp;&nbsp;[ABSTRACT](subs/aim.md#top) &nbsp;&nbsp;&nbsp;|
 &nbsp;&nbsp;&nbsp;[METHODS](https://github.com/hil-se/hil-se/blob/main/people/people.md#top) &nbsp;&nbsp;&nbsp;|
 &nbsp;&nbsp;&nbsp;[CITATION](https://github.com/hil-se/hil-se/blob/main/subs/projects.md#top) &nbsp;&nbsp;&nbsp;|
 &nbsp;&nbsp;&nbsp;[DEMO](https://github.com/hil-se/hil-se/blob/main/subs/resources.md#top) &nbsp;&nbsp;&nbsp;|
