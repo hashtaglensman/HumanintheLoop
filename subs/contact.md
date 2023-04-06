@@ -11,7 +11,7 @@
 
 ## Anoop Krishnan
 
-## AjIta Rattani
+## Ajita Rattani
 
 <!-- **Office:** GOL-1521
 
