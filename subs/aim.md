@@ -1,14 +1,12 @@
  <a name=top>
 
-[<img width=100% src="pictures/head.png?raw=yes">](main/README.md) 
-&nbsp;&nbsp;&nbsp;[HOME](https://github.com/hil-se/hil-se#top) &nbsp;&nbsp;&nbsp;|
-&nbsp;&nbsp;&nbsp;[AIM](subs/aim.md#top) &nbsp;&nbsp;&nbsp;|
-&nbsp;&nbsp;&nbsp;[PEOPLE](https://github.com/hil-se/hil-se/blob/main/people/people.md#top) &nbsp;&nbsp;&nbsp;|
-&nbsp;&nbsp;&nbsp;[PROJECTS](https://github.com/hil-se/hil-se/blob/main/subs/projects.md#top) &nbsp;&nbsp;&nbsp;|
-&nbsp;&nbsp;&nbsp;[PAPERS](https://github.com/hil-se/hil-se/blob/main/subs/papers.md#top) &nbsp;&nbsp;&nbsp;|
-&nbsp;&nbsp;&nbsp;[RESOURCES](https://github.com/hil-se/hil-se/blob/main/subs/resources.md#top) &nbsp;&nbsp;&nbsp;|
-&nbsp;&nbsp;&nbsp;[CONTACT-US](https://github.com/hil-se/hil-se/blob/main/subs/contact.md#top) &nbsp;&nbsp;&nbsp;
-
+[<img width=100% src="../pictures/head.png?raw=yes">](../README.md) 
+&nbsp;&nbsp;&nbsp;[HOME](#top) &nbsp;&nbsp;&nbsp;|
+&nbsp;&nbsp;&nbsp;[ABSTRACT](subs/aim.md#top) &nbsp;&nbsp;&nbsp;|
+&nbsp;&nbsp;&nbsp;[METHODS](subs/method.md#top) &nbsp;&nbsp;&nbsp;|
+&nbsp;&nbsp;&nbsp;[CITATION](subs/cite.md#top) &nbsp;&nbsp;&nbsp;|
+&nbsp;&nbsp;&nbsp;[DEMO](subs/demo.md#top) &nbsp;&nbsp;&nbsp;|
+&nbsp;&nbsp;&nbsp;[CONTACT-US](subs/contact.md#top) &nbsp;&nbsp;&nbsp;
 
 ## AIM
 
