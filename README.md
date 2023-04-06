@@ -3,10 +3,10 @@
 [<img width=100% src="pictures/head.png?raw=yes">](main/README.md) 
 &nbsp;&nbsp;&nbsp;[HOME](#top) &nbsp;&nbsp;&nbsp;|
 &nbsp;&nbsp;&nbsp;[ABSTRACT](subs/aim.md#top) &nbsp;&nbsp;&nbsp;|
-&nbsp;&nbsp;&nbsp;[METHODS](https://github.com/hil-se/hil-se/blob/main/people/people.md#top) &nbsp;&nbsp;&nbsp;|
-&nbsp;&nbsp;&nbsp;[CITATION](https://github.com/hil-se/hil-se/blob/main/subs/projects.md#top) &nbsp;&nbsp;&nbsp;|
-&nbsp;&nbsp;&nbsp;[DEMO](https://github.com/hil-se/hil-se/blob/main/subs/resources.md#top) &nbsp;&nbsp;&nbsp;|
-&nbsp;&nbsp;&nbsp;[CONTACT-US](https://github.com/hil-se/hil-se/blob/main/subs/contact.md#top) &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;[METHODS](subs/method.md#top) &nbsp;&nbsp;&nbsp;|
+&nbsp;&nbsp;&nbsp;[CITATION](subs/cite.md#top) &nbsp;&nbsp;&nbsp;|
+&nbsp;&nbsp;&nbsp;[DEMO](subs/demo.md#top) &nbsp;&nbsp;&nbsp;|
+&nbsp;&nbsp;&nbsp;[CONTACT-US](subs/contact.md#top) &nbsp;&nbsp;&nbsp;
 
 <!-- [<img src="https://github.com/hil-se/hil-se/blob/main/img/collaborate.png?raw=yes">](https://www.vodafone-institut.de/aiandi/five-things-that-demonstrate-that-ai-and-human-collaboration-is-the-future/)  -->
 
