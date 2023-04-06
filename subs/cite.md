@@ -10,7 +10,7 @@
 
 ## Citation
 
-### Machine Learning Fairness in Regression.
+<!-- ### Machine Learning Fairness in Regression.
 
 Oct 2021 | [repo](https://github.com/hil-se/FairBalance_Regression#top)
 
@@ -51,4 +51,4 @@ Aug 2020 | [repo](https://github.com/hil-se/Technical-Debt-Risks#top)
 This project aims to improve efficiency of self-admitted technical debt identification with an adaptive CNN model.
  - Incorporate a CNN model in the framework of a human-in-the-loop self-admitted technical debt identification system.
  - Explore ways to efficiently update the CNN model with incrementally obtained labels.
- - Make the prediction model of CNN adaptive to the target software project.
+ - Make the prediction model of CNN adaptive to the target software project. -->

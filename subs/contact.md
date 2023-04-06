@@ -9,9 +9,11 @@
 &nbsp;&nbsp;&nbsp;[CONTACT-US](contact.md#top) &nbsp;&nbsp;&nbsp;
 
 
-## Prof. Zhe Yu
+## Anoop Krishnan
 
-**Office:** GOL-1521
+## AjIta Rattani
+
+<!-- **Office:** GOL-1521
 
 Department of Software Engineering
 
@@ -19,4 +21,4 @@ Golisano College of Computing and Information Sciences
 
 Rochester Institute of Technology
 
-**Email:** zxyvse at rit dot edu
+**Email:** zxyvse at rit dot edu -->

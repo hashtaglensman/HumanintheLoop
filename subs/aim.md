@@ -10,7 +10,7 @@
 
 ## Abstract
 
-01/10/2021 &nbsp;&nbsp;&nbsp;|
-&nbsp;&nbsp;&nbsp; This is the very beginning of the [hil-se](https://github.com/hil-se/hil-se/blob/main/README.md) lab. Hooray!
+<!-- 01/10/2021 &nbsp;&nbsp;&nbsp;|
+&nbsp;&nbsp;&nbsp; This is the very beginning of the [hil-se](https://github.com/hil-se/hil-se/blob/main/README.md) lab. Hooray! -->
 
 ### Contribution
