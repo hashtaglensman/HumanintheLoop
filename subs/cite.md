@@ -1,14 +1,14 @@
  <a name=top>
 
 [<img width=100% src="../pictures/head.png?raw=yes">](../README.md) 
-&nbsp;&nbsp;&nbsp;[HOME](#top) &nbsp;&nbsp;&nbsp;|
+&nbsp;&nbsp;&nbsp;[HOME](../README.md#top) &nbsp;&nbsp;&nbsp;|
 &nbsp;&nbsp;&nbsp;[ABSTRACT](aim.md#top) &nbsp;&nbsp;&nbsp;|
 &nbsp;&nbsp;&nbsp;[METHODS](method.md#top) &nbsp;&nbsp;&nbsp;|
 &nbsp;&nbsp;&nbsp;[CITATION](cite.md#top) &nbsp;&nbsp;&nbsp;|
 &nbsp;&nbsp;&nbsp;[DEMO](demo.md#top) &nbsp;&nbsp;&nbsp;|
 &nbsp;&nbsp;&nbsp;[CONTACT-US](contact.md#top) &nbsp;&nbsp;&nbsp;
 
-## Projects
+## Citation
 
 ### Machine Learning Fairness in Regression.
 
