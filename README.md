@@ -1,6 +1,6 @@
  <a name=top>
 
-[<img width=100% src="pictures/head.png?raw=yes">](main/README.md) 
+[<img width=100% src="pictures/head.png?raw=yes">](README.md) 
 &nbsp;&nbsp;&nbsp;[HOME](#top) &nbsp;&nbsp;&nbsp;|
 &nbsp;&nbsp;&nbsp;[ABSTRACT](subs/aim.md#top) &nbsp;&nbsp;&nbsp;|
 &nbsp;&nbsp;&nbsp;[METHODS](subs/method.md#top) &nbsp;&nbsp;&nbsp;|
