@@ -9,9 +9,9 @@
 &nbsp;&nbsp;&nbsp;[CONTACT-US](contact.md#top) &nbsp;&nbsp;&nbsp;
 
 
-## Anoop Krishnan
+** Anoop Krishnan
 
-## Ajita Rattani
+** Ajita Rattani
 
 <!-- **Office:** GOL-1521
 
