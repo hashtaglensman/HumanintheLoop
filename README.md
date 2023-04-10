@@ -37,6 +37,9 @@ The hil-se lab explores and provides machine learning solutions to assist humans
 
 
 ## Contact Us
+### Anoop Krishnan
+
+### Ajita Rattani
 <!-- [<img align="left" width=100 src="https://github.com/hil-se/hil-se/blob/main/people/headshot/Monoshiz_Mahbub_Khan.jpg?raw=yes">](https://github.com/hil-se/hil-se/blob/main/people/people.md#monoshiz-mahbub-khan)
  
 [<img width=100 src="https://github.com/hil-se/hil-se/blob/main/people/headshot/Xiaoyin Xi.jpg?raw=yes">](https://github.com/hil-se/hil-se/blob/main/people/people.md#Xiaoyin-Xi) -->
