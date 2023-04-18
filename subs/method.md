@@ -11,6 +11,10 @@
 ## Methods
 We discussed two methods in the paper
 ### Method 1:
+For this method, we defined the uncertain data as the test data which was misclassified with high confidence score. To order to capture the definition, we proposed the following,
+The data is called to be uncertain when,
+#### the feature of the test data is equvidistant from the feature space of the training data and,
+#### the high ratio of the confidence score,
 
 
 <!-- 01/10/2021 &nbsp;&nbsp;&nbsp;|
