@@ -9,6 +9,9 @@
 &nbsp;&nbsp;&nbsp;[CONTACT-US](contact.md#top) &nbsp;&nbsp;&nbsp;
 
 ## Methods
+We discussed two methods in the paper
+### Method 1:
+
 
 <!-- 01/10/2021 &nbsp;&nbsp;&nbsp;|
 &nbsp;&nbsp;&nbsp; This is the very beginning of the [hil-se](https://github.com/hil-se/hil-se/blob/main/README.md) lab. Hooray! -->
