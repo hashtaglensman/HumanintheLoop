@@ -30,6 +30,11 @@ The data is called to be uncertain when,
 #### the feature of the test data is equvidistant from the feature space of the training data and,
 #### the high ratio of the confidence score,
 
+### Method 2:
+If there is a disagreement between two scores obtained from the main classifier model, and the combination of different pruned and quantized models, then the data is considered as uncertain.
+
+### Method 3:
+
 
 <!-- 08/25/2021 &nbsp;&nbsp;&nbsp;|
 &nbsp;&nbsp;&nbsp; Two new PhD students [Monoshiz Mahbub Khan](https://github.com/hil-se/hil-se/blob/main/people/people.md#monoshiz-mahbub-khan) and [Xiaoyin Xi](https://github.com/hil-se/hil-se/blob/main/people/people.md#Xiaoyin-Xi) have joined the lab as graduate research assistants!
