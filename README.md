@@ -33,7 +33,8 @@ The data is called to be uncertain when,
 ### Method 2:
 If there is a disagreement between two scores obtained from the main classifier model, and the combination of different pruned and quantized models, then the data is considered as uncertain.
 
-### Method 3:
+### Method 3: 
+Data points are considered as uncertain when it lies close to the decision boundary.
 
 
 <!-- 08/25/2021 &nbsp;&nbsp;&nbsp;|

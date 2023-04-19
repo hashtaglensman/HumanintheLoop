@@ -16,6 +16,12 @@ The data is called to be uncertain when,
 #### the feature of the test data is equvidistant from the feature space of the training data and,
 #### the high ratio of the confidence score,
 
+### Method 2:
+If there is a disagreement between two scores obtained from the main classifier model, and the combination of different pruned and quantized models, then the data is considered as uncertain.
+
+### Method 3: 
+Data points are considered as uncertain when it lies close to the decision boundary.
+
 
 <!-- 01/10/2021 &nbsp;&nbsp;&nbsp;|
 &nbsp;&nbsp;&nbsp; This is the very beginning of the [hil-se](https://github.com/hil-se/hil-se/blob/main/README.md) lab. Hooray! -->
