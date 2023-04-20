@@ -17,8 +17,6 @@
 | Unknown Unknowns     | \|        |          |                    |
 | Disagreement     | \|        |          |                    |
 
-
-
 We discussed two methods in the paper
 ### Method 1:
 For this method, we defined the uncertain data as the test data which was misclassified with high confidence score. To order to capture the definition, we proposed the following,
