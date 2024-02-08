@@ -13,9 +13,9 @@
 | ---        | ---       |  ---     | ---               |
 | Shannon's Entropy   | `         |    s      |       d            |
 | Dirichlet's Uncertainty Estimation       | \|        |          |                    |
-| Decision Boundary   | `         |    s      |       d            |
-| Unknown Unknowns     | \|        |          |                    |
-| Disagreement     | \|        |          |                    |
+| Boundary Proximity Confidence-based Outlier Detection   | `         |    s      |       d            |
+| Ensemble-based Outlier Detection | \|        |          |                    |
+| Multiview Disagreemen     | \|        |          |                    |
 
 We discussed two methods in the paper
 ### Method 1:
