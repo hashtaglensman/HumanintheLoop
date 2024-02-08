@@ -23,13 +23,17 @@ The hil-se lab explores and provides machine learning solutions to assist humans
 
 
 ## Methods
+### Gender Classification
 | Method     | Acceptance | Accuracy | Standard deviation |
 | ---        | ---       |  ---     | ---               |
 | Shannon's Entropy   | `         |    s      |       d            |
 | Dirichlet's Uncertainty Estimation       | \|        |          |                    |
-| Decision Boundary   | `         |    s      |       d            |
-| Unknown Unknowns     | \|        |          |                    |
-| Disagreement     | \|        |          |                    |
+| Boundary Proximity Confidence-based Outlier Detection   | `         |    s      |       d            |
+| Ensemble-based Outlier Detection | \|        |          |                    |
+| Multiview Disagreemen     | \|        |          |                    |
+
+### Smile Attribute Classification
+
 
 We discussed two methods in the paper
 ### Method 1:

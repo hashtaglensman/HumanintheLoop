@@ -9,6 +9,8 @@
 &nbsp;&nbsp;&nbsp;[CONTACT-US](contact.md#top) &nbsp;&nbsp;&nbsp;
 
 ## Methods
+
+### Gender Classification
 | Method     | Acceptance | Accuracy | Standard deviation |
 | ---        | ---       |  ---     | ---               |
 | Shannon's Entropy   | `         |    s      |       d            |
@@ -16,6 +18,9 @@
 | Boundary Proximity Confidence-based Outlier Detection   | `         |    s      |       d            |
 | Ensemble-based Outlier Detection | \|        |          |                    |
 | Multiview Disagreemen     | \|        |          |                    |
+
+### Smile Attribute Classification
+
 
 We discussed two methods in the paper
 ### Method 1:
